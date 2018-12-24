@@ -1,0 +1,12 @@
+{
+  "shell_port": 56203,
+  "iopub_port": 60901,
+  "stdin_port": 33413,
+  "control_port": 33784,
+  "hb_port": 41088,
+  "ip": "127.0.0.1",
+  "key": "629d6f47-1bc75b5be647aaf3e2c88557",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "ruby"
+}
